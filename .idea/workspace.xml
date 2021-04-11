@@ -14,6 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1r0R8FvVFPlGOjK9fdFXomu4nEW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -52,7 +58,7 @@
       <workItem from="1618110860305" duration="394000" />
       <workItem from="1618111271737" duration="354000" />
       <workItem from="1618111638764" duration="31000" />
-      <workItem from="1618111679797" duration="4837000" />
+      <workItem from="1618111679797" duration="7312000" />
     </task>
     <servers />
   </component>
@@ -68,9 +74,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618110904674" />
-    <state x="729" y="169" key="SettingsEditor" timestamp="1618111532815">
+    <state x="352" y="195" key="SettingsEditor" timestamp="1618122795432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="352" y="195" key="SettingsEditor/-1080.-526.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1618122795432" />
     <state x="729" y="169" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618111532815" />
   </component>
 </project>
