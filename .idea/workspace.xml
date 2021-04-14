@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b184cab9-2165-4f01-8b01-74fb54233c87" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,8 +29,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -28,12 +50,15 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stepanov\Documents\GitHub\FrontEnd2021_JavaScript_1LVL" />
       <recent name="E:\GIT\FrontEnd2021_JavaScript_1LVL\js" />
     </key>
   </component>
@@ -41,13 +66,11 @@
     <configuration name="lesson01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/lesson01.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.lesson01.js" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b184cab9-2165-4f01-8b01-74fb54233c87" name="Default Changelist" comment="" />
@@ -59,11 +82,23 @@
       <workItem from="1618111271737" duration="354000" />
       <workItem from="1618111638764" duration="31000" />
       <workItem from="1618111679797" duration="7312000" />
+      <workItem from="1618384985401" duration="8833000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="983" y="348" key="#Notifications" timestamp="1618111822314">
@@ -74,10 +109,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618110904674" />
-    <state x="352" y="195" key="SettingsEditor" timestamp="1618122795432">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="352" y="197" key="SettingsEditor" timestamp="1618386457060">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="352" y="195" key="SettingsEditor/-1080.-526.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1618122795432" />
     <state x="729" y="169" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618111532815" />
+    <state x="352" y="197" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1618386457060" />
   </component>
 </project>
