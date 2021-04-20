@@ -52,7 +52,7 @@ console.log(products.sort(function (a, b) {
 }));
 
 
-//Урок 3. Пример 5
+//Урок 3. Задание 5
 function getNumbers(i) {
 
     console.log(i);
@@ -61,7 +61,7 @@ function getNumbers(i) {
 
 for (let i = 0; i <= 9 ; getNumbers(i++)) {}
 
-//Урок 3. Пример 6
+//Урок 3. Задание 6
 let symbols = '';
 for (let i = 0; i <= 20; i++) {
     console.log(symbols += 'X');
