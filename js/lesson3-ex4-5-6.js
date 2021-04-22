@@ -29,17 +29,7 @@ const products = [
 ];
 
 let productsWithPhoto = products.filter(function (product) {
-    if (product.hasOwnProperty("photos") === true) {
-        // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-        //Объясните, пожалуйста, почему так не работает:
-        //return product.photos.lenght > 0;
-
-        // а так работает:
-        if (product.photos.length > 0) {
-            return product;
-        }
-
-    }
+    return product.hasOwnProperty("photos") && product.photos.length > 0;
 });
 
 console.log(productsWithPhoto);
