@@ -52,12 +52,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stepanov\Documents\GitHub\FrontEnd2021_JavaScript_1LVL\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Stepanov\Documents\GitHub\FrontEnd2021_JavaScript_1LVL" />
       <recent name="E:\GIT\FrontEnd2021_JavaScript_1LVL\js" />
@@ -89,6 +92,7 @@
       <workItem from="1618787140856" duration="6447000" />
       <workItem from="1618975973398" duration="162000" />
       <workItem from="1619073206968" duration="1733000" />
+      <workItem from="1619145829736" duration="4750000" />
     </task>
     <servers />
   </component>
@@ -130,9 +134,10 @@
     <state x="352" y="195" key="SettingsEditor/-1080.-526.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1618122795432" />
     <state x="729" y="169" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618111532815" />
     <state x="687" y="229" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1619074957276" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618719968355">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="623" y="227" width="672" height="685" key="search.everywhere.popup" timestamp="1619084268700">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618719968355" />
+    <state x="623" y="227" width="672" height="685" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1619084268700" />
   </component>
 </project>
